@@ -1,4 +1,4 @@
-# core.py: 
+# core.py: Runs MicroPython on a microcontroller
 
 1. Collect [time, voltage] data when a pulse pressure is found
 2. Measure heart rate in beats per minute (bpm)
